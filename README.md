@@ -19,7 +19,7 @@ To resolve the fixable issue, you need to match the app's bundle ID with your pr
 <tr>
     <td>Cannot change app icons</td>
     <td>✓</td>
-    <td rowspan="5"><img src="https://adriancastro.dev/e0hbonxknepw.jpg" width="300"></td>
+    <td rowspan="5"></td>
 </tr>
 <tr>
     <td>Cannot share items to Discord</td>
