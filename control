@@ -4,7 +4,7 @@ Version: 2.0.0
 Architecture: iphoneos-arm
 Description: A tweak to inject Kettu into Discord
 Maintainer: cocobo1
-Author: cocobo1
+Author: cocobo1, Bwlok
 Icon: <https://codeberg.org/cocobo1/Kettu/raw/branch/main/src/assets/icons/kettu.png>
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
